@@ -23,4 +23,4 @@ If this Privacy Policy is updated in the future, the changes will be made availa
 
 ## 4. Contact
 
-If you have any questions or concerns about this Privacy Policy or the Terms of Service, you can reach out to us at: [your email address].
+If you have any questions or concerns about this Privacy Policy or the Terms of Service, you can reach out to us at: [questly@jasonthompson.org](mailto:questly@jasonthompson.org).
