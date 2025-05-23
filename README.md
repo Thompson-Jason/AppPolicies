@@ -24,4 +24,4 @@ All documents in this repository are provided for informational purposes. Please
 
 ---
 
-_Maintained by Jason. For questions or requests, please open an issue._
+_Maintained by Jason Thompson. For questions or requests, please open an issue._
