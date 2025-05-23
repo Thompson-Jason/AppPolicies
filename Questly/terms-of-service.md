@@ -1,3 +1,8 @@
+---
+layout: default
+title: Terms of Service
+---
+
 # Terms of Service
 
 **Effective Date:** May 19, 2025

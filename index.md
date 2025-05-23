@@ -37,8 +37,8 @@ Welcome! This site hosts the privacy policies and terms of service (ToS) for var
 <div class="card">
   <h2>Questly</h2>
   <ul>
-    <li><a href="/Questly/Privacy%20Policy.md">Privacy Policy</a></li>
-    <li><a href="/Questly/Terms%20of%20Service.md">Terms of Service</a></li>
+    <li><a href="/Questly/privacy-policy.html">Privacy Policy</a></li>
+    <li><a href="/Questly/terms-of-service.html">Terms of Service</a></li>
   </ul>
 </div>
 
