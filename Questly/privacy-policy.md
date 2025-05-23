@@ -3,6 +3,31 @@ layout: default
 title: Privacy Policy
 ---
 
+<style>
+body {
+  background-color: #24273a;
+  color: #cad3f5;
+  font-family: 'Inter', 'Segoe UI', Arial, sans-serif;
+}
+a {
+  color: #8aadf4;
+  text-decoration: underline;
+}
+a:hover {
+  color: #f5bde6;
+}
+h1, h2, h3 {
+  color: #f4dbd6;
+}
+.card {
+  background: #363a4f;
+  border-radius: 12px;
+  padding: 1.5em;
+  margin-bottom: 1.5em;
+  box-shadow: 0 2px 8px #18192633;
+}
+</style>
+
 # Privacy Policy
 
 **Effective Date:** May 19, 2025
