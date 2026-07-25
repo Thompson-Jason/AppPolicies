@@ -42,6 +42,14 @@ Welcome! This site hosts the privacy policies and terms of service (ToS) for var
   </ul>
 </div>
 
+<div class="card">
+  <h2>SumIt</h2>
+  <ul>
+    <li><a href="{{ site.baseurl }}/SumIt/privacy-policy.html">Privacy Policy</a></li>
+    <li><a href="{{ site.baseurl }}/SumIt/terms-of-service.html">Terms of Service</a></li>
+  </ul>
+</div>
+
 ---
 
 <small>Maintained by Jason Thompson. For questions or requests, please open an issue.</small>
