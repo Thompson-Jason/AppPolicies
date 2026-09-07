@@ -45,7 +45,7 @@ SumIt does not use advertising SDKs and does not sell your information.
 SumIt uses [PostHog](https://posthog.com), a third-party analytics service, to understand how the app is used and to diagnose problems. PostHog may collect:
 
 - **Product usage events** — such as creating or archiving a counter, incrementing or decrementing a count, sending or responding to an invite, and viewing a recap — along with basic contextual details about those actions (for example, participant counts or whether a goal was set). These events do not include the names, notes, or values you enter into counters.
-- **Session replay recordings** of your on-screen interactions, so we can see how the app is actually used and reproduce issues. Text input fields are masked by default.
+- **Session replay recordings** of your on-screen interactions, so we can see how the app is actually used and reproduce issues. Counter and group names, participant display names, notes, and invite handles are masked before capture; counts and general app layout are visible.
 - **Crash and error diagnostics**, so we can identify and fix bugs.
 
 This data is associated with a random identifier tied to your device, not with your name, email address, or Apple ID, and is processed by PostHog in the United States. You can read PostHog's own privacy policy at [posthog.com/privacy](https://posthog.com/privacy).
